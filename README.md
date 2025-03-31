@@ -1,5 +1,7 @@
 # ⚽ Premier League Goals Analysis — Power BI Project
 
+![Premier League Dashboard Preview](https://raw.githubusercontent.com/advikbhatt/Football-Analytics-Power-BI/refs/heads/main/home_page.png)
+
 This project is a data analysis and visualization solution built using **Power BI Desktop**, focused on **Premier League match statistics**, with an emphasis on calculating **total goals per team** across both home and away matches using custom **DAX measures** and relational modeling techniques.
 
 ---
